@@ -10,7 +10,8 @@
     "vite": "^6.0.5"
   },
   "name": "my-project",
-  "homepage": "https://linushallin.github.io/Sportnews-vue-vite",  "scripts": {
+  "homepage": "https://linushallin.github.io/Sportnews-vue-vite",
+  "scripts": {
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview",
